@@ -1,2 +1,2 @@
-Just a simple demonstration of python's tkinter library
-New Contributers greatly appreciated.
+Just a simple demonstration of python's tkinter library.
+New Contributers are greatly appreciated....
